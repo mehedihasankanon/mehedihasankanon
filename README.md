@@ -42,11 +42,15 @@ This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of E
 </div>
 
 
+
+<!-- TODO: IDK how to do this cool snake thing. Gotta learn! -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake.svg" />
 </picture>
+-->
 
 
 
