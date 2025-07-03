@@ -14,11 +14,11 @@ This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of E
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=cobalt)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasankanon&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasankanon&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasankanon&theme=cobalt) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasankanon&theme=cobalt)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasankanon&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasankanon&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasankanon&theme=cobalt) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasankanon&theme=cobalt&utcOffset=6)
 
 </div>
 
