@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mehedihasankanon&color=brightgreen)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+# Hey Everyone!
 This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of Engineering and Technology (BUET)**.
 
 ## Profile Overview
@@ -35,6 +33,9 @@ This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of E
     <img src="https://img.shields.io/badge/Codeforces-tends_to_xero-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
 </div>
+
+
+![Snake animation](https://github.com/mehedihasankanon/mehedihasankanon/blob/output/github-contribution-grid-snake.svg)
 
 
 
