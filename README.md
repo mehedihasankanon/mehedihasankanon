@@ -1,13 +1,8 @@
-<!--
-
-COPIED FROM ASIF AZAD BHAI'S PROFILE
--->
-
-
-
 ![](https://komarev.com/ghpvc/?username=mehedihasankanon&color=brightgreen)
 
-## Hi There! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of Engineering and Technology (BUET)**.
 
 ## Profile Overview
@@ -50,22 +45,4 @@ This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of E
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake.svg" />
 </picture>
--->
-
-
-
-
-<!--
-**mehedihasankanon/mehedihasankanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
