@@ -1,4 +1,6 @@
+<!--
 ![](https://komarev.com/ghpvc/?username=mehedihasankanon&color=brightgreen)
+-->
 
 # Hey Everyone!
 This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of Engineering and Technology (BUET)**.
