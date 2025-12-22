@@ -3,7 +3,7 @@
 -->
 
 # Hey Everyone!
-This is **Mehedi Hasan Kanon**, **CSE Freshman** at **Bangladesh University of Engineering and Technology (BUET)**.
+This is **Mehedi Hasan Kanon**, **CSE Sophomore** at **Bangladesh University of Engineering and Technology (BUET)**.
 
 ## Profile Overview
 
