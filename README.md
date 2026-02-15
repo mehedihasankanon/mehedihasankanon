@@ -31,14 +31,14 @@ This is **Mehedi Hasan Kanon**, **CSE Sophomore** at **Bangladesh University of 
     <img src="https://img.shields.io/badge/Facebook-ShadmanSShuvo-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
   </a>
   -->
-  <a href="https://codeforces.com/profile/tends_to_xero" target="_blank" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-tends_to_xero-blue?style=flat-square" alt="Codeforces" height="22"/>
+  <a href="https://codeforces.com/profile/mvr-sin_theta" target="_blank" title="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-mvr-sin_theta-blue?style=flat-square" alt="Codeforces" height="22"/>
   </a>
 </div>
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
