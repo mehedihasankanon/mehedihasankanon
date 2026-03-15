@@ -1,44 +1,78 @@
+<!-- Profile View Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehedihasankanon&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<!-- Dynamic Typing Header -->
 <!--
-![](https://komarev.com/ghpvc/?username=mehedihasankanon&color=brightgreen)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Mehedi!+%F0%9F%91%8B;CSE+Sophomore+@+BUET;Competitive+Programmer;Always+learning+and+building!" alt="Typing SVG" />
+  </a>
+</div>
 -->
 
-# Hey Everyone!
-This is **Mehedi Hasan Kanon**, **CSE Sophomore** at **Bangladesh University of Engineering and Technology (BUET)**.
+---
 
-## Profile Overview
+### 👨‍💻 About Me
+
+I am a **Computer Science and Engineering (CSE)** sophomore at the **Bangladesh University of Engineering and Technology (BUET)**. I love solving complex problems, competitive programming, and building software.
+
+Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,git,github,linux,vscode&perline=10" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=blue_green)
+  <!-- Your existing summary cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=blue_green" width="800"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasankanon&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasankanon&theme=blue_green)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasankanon&theme=blue_green" width="395"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasankanon&theme=blue_green" width="395"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasankanon&theme=blue_green) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasankanon&theme=blue_green&utcOffset=6)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasankanon&theme=blue_green" width="395"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasankanon&theme=blue_green&utcOffset=6" width="395"/>
+
+  <!-- Added Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasankanon&theme=blue-green&hide_border=true" width="800" alt="GitHub Streak"/>
 
 </div>
 
+---
 
-## Connect with me
-<div align="left" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
-  <a href="https://github.com/mehedihasankanon" target="_blank" style="margin-right: 10px;" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-mehedihasankanon-black?style=flat-square&logo=github" alt="GitHub" height="22"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mehedihasankanon/" target="_blank" style="margin-right: 10px;" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-mehedihasankanon -blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="22"/>
-  </a>
-  <!--
-  <a href="https://www.facebook.com/ShadmanSShuvo" target="_blank" style="margin-right: 10px;" title="Facebook">
-    <img src="https://img.shields.io/badge/Facebook-ShadmanSShuvo-blue?style=flat-square&logo=facebook" alt="Facebook" height="22"/>
-  </a>
-  -->
-  <a href="https://codeforces.com/profile/mvr_sin_theta" target="_blank" title="Codeforces">
-    <img src="https://img.shields.io/badge/Codeforces-mvr_sin_theta-blue?style=flat-square" alt="Codeforces" height="22"/>
-  </a>
+<!-- Note: You must set up the GitHub Action for this to render! -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
+---
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://github.com/mehedihasankanon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehedihasankanon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/mvr_sin_theta" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+</div>
