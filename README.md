@@ -24,11 +24,9 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ### Tech Stack
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,git,github,vscode&theme=dark" alt="My Skills" />
-  </a>
-</div>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,express,postgres,git,github,latex,vscode&theme=dark" alt="My Skills" />
+</p>
 
 ---
 
