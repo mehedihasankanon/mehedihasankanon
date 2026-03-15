@@ -4,19 +4,19 @@
 </div>
 
 <!-- Dynamic Typing Header -->
-<!--
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Mehedi!+%F0%9F%91%8B;CSE+Sophomore+@+BUET;Competitive+Programmer;Always+learning+and+building!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Mehedi+Hasan+Kanon;CSE%2C+BUET;Competitive+Programming" alt="Typing SVG" />
   </a>
 </div>
--->
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science and Engineering (CSE)** sophomore at the **Bangladesh University of Engineering and Technology (BUET)**. I love solving complex problems, competitive programming, and building software.
+I am a **Computer Science and Engineering (CSE)** sophomore at the **Bangladesh University of Engineering and Technology (BUET)**. Interested in almost anything you can throw at me!!
+
+Currently learning the basics of Machine Learning and trying to become cyan @ codeforces.
 
 Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
@@ -26,7 +26,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,git,github,linux,vscode&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,git,github,vscode&perline=10" alt="My Skills" />
   </a>
 </div>
 
