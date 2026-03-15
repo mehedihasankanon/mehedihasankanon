@@ -24,9 +24,9 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ### Tech Stack
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,git,github,vscode&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,nodejs,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ### Let's Connect!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mehedihasankanon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -73,5 +73,8 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   </a>
   <a href="https://codeforces.com/profile/mvr_sin_theta" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/mvrsintheta" target="_blank">
+    <img src="https://img.shields.io/badge/Codechef-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef"/>
   </a>
 </div>
