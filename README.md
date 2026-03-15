@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### Assalamu 'alaikum
 
 I am a **Computer Science and Engineering (CSE)** sophomore at the **Bangladesh University of Engineering and Technology (BUET)**. Interested in almost anything you can throw at me!!
 
@@ -22,7 +22,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,6 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
 
-### 📊 GitHub Analytics
 
 <div align="center">
   
@@ -63,7 +62,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 <div align="center">
   <a href="https://github.com/mehedihasankanon" target="_blank">
