@@ -75,4 +75,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   <a href="https://www.codechef.com/users/mvrsintheta" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-1F8ACB?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef"/>
   </a>
+  <a href="https://monkeytype.com/profile/mvrsintheta" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-1F8ACB?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/>
+  </a>
 </div>
