@@ -74,6 +74,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 ---
 
 <!-- Note: You must set up the GitHub Action for this to render! -->
+<!-- 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake-dark.svg" />
@@ -83,6 +84,8 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 </div>
 
 ---
+
+-->
 
 ### Let's Connect!
 
