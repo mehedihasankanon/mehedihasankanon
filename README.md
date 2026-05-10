@@ -52,9 +52,9 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code" />
 </p>
 
+<!--
 ---
 
-<!--
 <div align="center">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=blue_green" width="800"/>
