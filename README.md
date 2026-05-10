@@ -54,10 +54,9 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
 
-
+<!--
 <div align="center">
   
-  <!-- Your existing summary cards -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasankanon&theme=blue_green" width="800"/>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasankanon&theme=blue_green" width="395"/> 
@@ -66,10 +65,10 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasankanon&theme=blue_green" width="395"/> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasankanon&theme=blue_green&utcOffset=6" width="395"/>
 
-  <!-- Added Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasankanon&theme=blue-green&hide_border=true" width="800" alt="GitHub Streak"/>
 
 </div>
+-->
 
 ---
 
