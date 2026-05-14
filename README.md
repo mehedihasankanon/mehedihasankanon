@@ -36,6 +36,7 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/JavaFX-v17.0.10-52d3aa?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX" />
 </p>
 
 #### Databases
