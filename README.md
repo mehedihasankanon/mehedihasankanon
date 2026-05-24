@@ -52,7 +52,6 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VS Code" />
 </p>
 
-<!--
 ---
 
 <div align="center">
@@ -68,12 +67,11 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasankanon&theme=blue-green&hide_border=true" width="800" alt="GitHub Streak"/>
 
 </div>
--->
 
 ---
 
 <!-- Note: You must set up the GitHub Action for this to render! -->
-<!-- 
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehedihasankanon/mehedihasankanon/output/github-snake-dark.svg" />
@@ -84,7 +82,6 @@ Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
 
--->
 
 ### Let's Connect!
 
