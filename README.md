@@ -16,8 +16,6 @@
 
 I am a **Computer Science and Engineering (CSE)** sophomore at the **Bangladesh University of Engineering and Technology (BUET)**. Interested in almost anything you can throw at me!!
 
-Currently building a desktop overlay utility app using Python and PyQt6 and trying to become cyan @ codeforces.
-
 Reach me **[here](mailto:2305052@ugrad.cse.buet.ac.bd)**
 
 ---
