@@ -6,7 +6,7 @@
 <!-- Dynamic Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Mehedi+Hasan+Kanon;CSE%2C+BUET;Competitive+Programming;Backend+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Mehedi+Hasan+Kanon;Competitive+Programming;Backend+Development" alt="Typing SVG" />
   </a>
 </div>
 
