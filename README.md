@@ -20,7 +20,6 @@
   </a>
 </div>
 
----
 
 ### Assalamu 'alaikum
 
