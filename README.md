@@ -7,10 +7,8 @@
 
 <div align="center">
 
-<i>"The proud do not endure. The greatest of us fall in the end."</i><br>
-<!--
-— <b>Yuriko</b>, <i>Ghost of Tsushima</i>
--->
+<i>"The greatest of us fall in the end."</i><br>
+— <i>Ghost of Tsushima</i>
 </div>
 
 <!-- Dynamic Typing Header -->
