@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=mehedihasankanon&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
----
-
 <div align="center">
 
 <i>"The proud do not endure. The greatest of us fall in the end."</i><br>
@@ -13,6 +11,7 @@
 -->
 </div>
 
+---
 
 <!-- Dynamic Typing Header -->
 <div align="center">
