@@ -7,9 +7,17 @@
 
 <div align="center">
 
+<!--
 <i>"The greatest of us fall in the end."</i><br>
+
+-->
+
+<i>"Look around you, man. Is this cesspool worth dying for?"</i><br>
+
 </div>
 
+
+<i> 
 <!-- Dynamic Typing Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
