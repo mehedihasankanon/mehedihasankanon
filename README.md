@@ -1,9 +1,10 @@
-<!-- Profile View Counter -->
+<!-- Profile View Counter 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mehedihasankanon&color=10B981&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
+-->
 
 <div align="center">
 
